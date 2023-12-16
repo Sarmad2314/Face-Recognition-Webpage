@@ -1,0 +1,572 @@
+
+html {
+	font-size:62.5%;
+  scroll-behavior: smooth;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 134.8rem;
+}.desktop-1-q6d {
+  box-sizing: border-box;
+  padding-bottom: 0;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.desktop-1-q6d .auto-group-vf9f-1fK {
+  box-sizing: border-box;
+  padding: 5.4rem 6.5rem 15.6rem 6.5rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: linear-gradient(rgba(255, 255, 255, 0.151), rgba(255, 255, 255, 0.116)), url('../assets/recog2.png');
+  flex-shrink: 0;
+}
+.desktop-1-q6d .auto-group-vf9f-1fK .auto-group-v7hf-mRX {
+  margin: 0rem 9.8rem 6.7rem 0rem;
+  width: calc(100% - 9.8rem);
+  height: 6.9rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-q6d .auto-group-vf9f-1fK .auto-group-v7hf-mRX .defendhub-fG1 {
+  margin-right: 25.4rem;
+  font-size: 5.5rem;
+  font-weight: 400;
+  line-height: 1.1425;
+  color: #ffffff;
+  text-shadow: 2px 2px black;
+  font-family: Lilita One, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  animation: zoomIn 1.5s ease forwards; 
+}
+
+@keyframes zoomIn {
+  from {
+    transform: scale(1); /* Initial scale */
+  }
+  to {
+    transform: scale(1.1); /* Desired zoom-out scale */
+  }
+}
+.zoomOutAnimation {
+  animation: zoomOut 1s ease forwards; /* Apply the animation */
+}
+
+
+.desktop-1-q6d .auto-group-vf9f-1fK .auto-group-v7hf-mRX .navbar-wzD {
+  margin: 2.1rem 0rem 1.2rem 0rem;
+  height: calc(100% - 3.3rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-q6d .auto-group-vf9f-1fK .auto-group-v7hf-mRX .navbar-wzD .home-HHP {
+  margin-right: 9.8rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  text-shadow: 2px 2px black;
+  font-family: Lao Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  text-decoration: none;
+  cursor: pointer;
+  transition: all 0.5s ease-in-out;
+  animation: floatFromLeft 1.5s ease forwards; /* Apply the animation */
+  opacity: 0; /* Start with opacity 0 */
+}
+.desktop-1-q6d .auto-group-vf9f-1fK .auto-group-v7hf-mRX .navbar-wzD .home-HHP:hover{
+  transform: scale(1.05);
+  text-decoration: underline;
+}
+.desktop-1-q6d .auto-group-vf9f-1fK .auto-group-v7hf-mRX .navbar-wzD .description-zxV {
+  margin-right: 11rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  text-shadow: 2px 2px black;
+  font-family: Lao Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  text-decoration: none;
+  cursor: pointer;
+  transition: all 0.5s ease-in-out;
+  animation: floatFromLeft 1.5s ease forwards; /* Apply the animation */
+  opacity: 0; /* Start with opacity 0 */
+}
+.desktop-1-q6d .auto-group-vf9f-1fK .auto-group-v7hf-mRX .navbar-wzD .description-zxV:hover{
+  transform: scale(1.05);
+  text-decoration: underline;
+}
+.desktop-1-q6d .auto-group-vf9f-1fK .auto-group-v7hf-mRX .navbar-wzD .about-us-7XK {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  text-shadow: 2px 2px black;
+  font-family: Lao Sans Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  text-decoration: none;
+  cursor: pointer;
+  transition: all 0.5s ease-in-out;
+  animation: floatFromLeft 1.5s ease forwards; /* Apply the animation */
+  opacity: 0; /* Start with opacity 0 */
+}
+.desktop-1-q6d .auto-group-vf9f-1fK .auto-group-v7hf-mRX .navbar-wzD .about-us-7XK:hover{
+  transform: scale(1.05);
+  text-decoration: underline;
+}
+@keyframes floatFromLeft {
+  from {
+    transform: translateX(-50px); /* Initial position off the left side */
+    opacity: 0; /* Initial opacity */
+  }
+  to {
+    transform: translateX(0); /* Float in from the left */
+    opacity: 1; /* Fully visible */
+  }
+}
+
+
+.desktop-1-q6d .auto-group-vf9f-1fK .your-peace-of-mind-safeguarded-at-every-door-with-our-comprehensive-home-security-system-ensuring-safety-and-serenity-always-more-pgd {
+  margin: 0rem 3rem 5.6rem 0rem;
+  max-width: 91.3rem;
+  font-size: 4rem;
+  font-weight: 800;
+  line-height: 1.2575;
+  color: #ffffff;
+  text-shadow: 2px 2px black;
+  font-family: Merriweather Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+  text-align: center;
+}
+.desktop-1-q6d .auto-group-vf9f-1fK .group-1-TUh {
+  margin: 0 32.3rem;
+  width: calc(100% - 64.6rem);
+  height: 6.6rem;
+  display: flex;
+  align-items: center;
+  border-radius: 1.8rem;
+  flex-shrink: 0;
+  margin-left: 40rem;
+}
+.desktop-1-q6d .auto-group-vf9f-1fK .group-1-TUh .auto-group-sqwm-P7T {
+  margin-right: 2.5rem;
+  box-sizing: border-box;
+  padding: 1.1rem 4.7rem 1.195rem 5.001rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 1.8rem;
+  flex-shrink: 0;
+  cursor: pointer;
+  transition: all 0.5s ease-in-out;
+  text-decoration: none;
+  animation: floatFromRight 1.5s ease forwards; /* Apply the animation */
+  opacity: 0; /* Start with opacity 0 */
+}
+.desktop-1-q6d .auto-group-vf9f-1fK .group-1-TUh .auto-group-sqwm-P7T:hover{
+  transform: scale(1.05);
+}
+@keyframes floatFromRight {
+  from {
+    transform: translateX(50px); /* Initial position off the right side */
+    opacity: 0; /* Initial opacity */
+  }
+  to {
+    transform: translateX(0); /* Float in from the right */
+    opacity: 1; /* Fully visible */
+  }
+}
+
+
+.desktop-1-q6d .auto-group-vf9f-1fK .group-1-TUh .auto-group-sqwm-P7T .vector-VwB {
+  margin-right: 0.5904rem;
+  width: 3.2rem;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-q6d .auto-group-vf9f-1fK .group-1-TUh .auto-group-sqwm-P7T .github-Eds {
+  margin-top: 0.0953rem;
+  font-size: 2.5rem;
+  font-weight: 800;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Merriweather Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-q6d .auto-group-vf9f-1fK .group-1-TUh .auto-group-rycy-uV7 {
+  box-sizing: border-box;
+  padding: 1.3rem 4.4rem 1.643rem 4.4rem;
+  height: 100%;
+  border: solid 0.3rem #ffffff;
+  border-radius: 1.8rem;
+  flex-shrink: 0;
+  cursor: pointer;
+  transition: all 0.5s ease-in-out;
+  animation: floatFromLeft 1.5s ease forwards; /* Apply the animation */
+  opacity: 0; /* Start with opacity 0 */
+}
+.desktop-1-q6d .auto-group-vf9f-1fK .group-1-TUh .auto-group-rycy-uV7:hover{
+  transform: scale(1.05);
+}
+@keyframes floatFromLeft {
+  from {
+    transform: translateX(-50px); /* Initial position off the left side */
+    opacity: 0; /* Initial opacity */
+  }
+  to {
+    transform: translateX(0); /* Float in from the left */
+    opacity: 1; /* Fully visible */
+  }
+}
+
+
+
+.desktop-1-q6d .auto-group-vf9f-1fK .group-1-TUh .auto-group-rycy-uV7 .logos-youtube-3bK {
+  width: 14rem;
+  height: 2.8rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-q6d .auto-group-vtjw-WE1 {
+  box-sizing: border-box;
+  padding: 6.4rem 5.5rem 10.9rem 6.5rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #f2f5ff;
+  flex-shrink: 0;
+}
+.desktop-1-q6d .auto-group-vtjw-WE1 .auto-group-w2lm-Efo {
+  margin: 0rem 1.7rem 9.1rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-1-q6d .auto-group-vtjw-WE1 .auto-group-w2lm-Efo .recognition-nBX {
+  margin-bottom: 1.5rem;
+  font-size: 6rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Ligconsolata, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-q6d .auto-group-vtjw-WE1 .auto-group-w2lm-Efo .our-home-security-system-uses-opencv-facerecognition-and-python-to-scan-live-video-feeds-recognizing-authorized-individuals-from-a-stored-dataset-upon-detecting-a-known-face-it-grants-access-and-triggers-alerts-for-unknown-individuals-the-system-immediately-initiates-security-measures-by-sending-an-email-notification-with-an-intruders-image-ensuring-swift-response-to-potential-threats-by-seamlessly-integrating-facial-recognition-our-system-offers-efficient-security-and-real-time-monitoring-promising-heightened-safety-and-peace-of-mind-for-your-home-7Uh {
+  max-width: 73.5rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Kokoro, 'Source Sans Pro';
+  flex-shrink: 0;
+  text-align: justify;
+}
+.desktop-1-q6d .auto-group-vtjw-WE1 .item-3-1-zgu {
+  margin-top: 2.7rem;
+  width: 43.1rem;
+  height: 47rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.desktop-1-q6d .auto-group-mwmk-V7s {
+  box-sizing: border-box;
+  padding: 5.7rem 6.5rem 5.3rem 6.5rem;
+  width: 100%;
+  height: 640px;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/aboutus1.jpg');
+  flex-shrink: 0;
+}
+.desktop-1-q6d .auto-group-mwmk-V7s .group-4-cTP {
+  margin-bottom: 0.4rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-1-q6d .auto-group-mwmk-V7s .group-4-cTP .auto-group-4pbf-ZNd {
+  margin-bottom: 2.9rem;
+  width: 40.3rem;
+  height: 10.1rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-1-q6d .auto-group-mwmk-V7s .group-4-cTP .auto-group-4pbf-ZNd .about-us-Vn5 {
+  width: 23.8rem;
+  height: 7.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 6rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Ligconsolata, 'Source Sans Pro';
+  white-space: nowrap;
+  text-shadow: 1.5px 1.5px black;
+}
+.desktop-1-q6d .auto-group-mwmk-V7s .group-4-cTP .auto-group-4pbf-ZNd .we-are-students-of-nust-CgV {
+  width: 40.3rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 0;
+  top: 6.3rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  letter-spacing: 0.42rem;
+  color: #e7e7e7e8;
+  font-family: Lao Muang Khong, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-q6d .auto-group-mwmk-V7s .group-4-cTP .welcome-were-a-dedicated-team-focused-on-innovating-home-security-our-diverse-expertise-converged-to-create-a-cutting-edge-solution-driven-by-a-passion-for-safety-and-excellence-VvV {
+  margin-bottom: 2.7rem;
+  max-width: 68.9rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #e7e7e7;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+  text-align: justify;
+}
+.desktop-1-q6d .auto-group-mwmk-V7s .group-4-cTP .challenges-fueled-our-progress-our-goal-safer-homes-through-technology-with-unwavering-dedication-we-aim-to-ensure-peace-of-mind-for-all-5Nu {
+  max-width: 67rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #e7e7e7;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+  text-align: justify;
+}
+.desktop-1-q6d .auto-group-mwmk-V7s .auto-group-lemj-MLR {
+  margin-right: 22rem;
+  width: calc(100% - 22rem);
+  height: 18.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-q6d .auto-group-mwmk-V7s .auto-group-lemj-MLR .group-2-Hjs {
+  margin: 5.2rem 12.4rem 4.5rem 0rem;
+  height: calc(100% - 9.7rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.desktop-1-q6d .auto-group-mwmk-V7s .auto-group-lemj-MLR .group-2-Hjs .auto-group-tk9s-RbB {
+  margin-right: 7rem;
+  width: 8.7rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-1-q6d .auto-group-mwmk-V7s .auto-group-lemj-MLR .group-2-Hjs .auto-group-tk9s-RbB .item-2-aDB {
+  width: 3.1rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 4.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  letter-spacing: 0.63rem;
+  color: #f3f3f3;
+  font-family: Mplus 1p Bold, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-q6d .auto-group-mwmk-V7s .auto-group-lemj-MLR .group-2-Hjs .auto-group-tk9s-RbB .yrs-P49 {
+  width: 2.5rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 3rem;
+  top: 2rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #e7e7e7;
+  font-family: Mplus 1p, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-q6d .auto-group-mwmk-V7s .auto-group-lemj-MLR .group-2-Hjs .auto-group-tk9s-RbB .experience-UbP {
+  width: 8.7rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 0;
+  top: 4.5rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 2.1975;
+  color: #e6e6e6;
+  font-family: Moulpali, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-q6d .auto-group-mwmk-V7s .auto-group-lemj-MLR .group-2-Hjs .auto-group-gurz-NRs {
+  width: 6.4rem;
+  height: 8.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-1-q6d .auto-group-mwmk-V7s .auto-group-lemj-MLR .group-2-Hjs .auto-group-gurz-NRs .item-4-iVj {
+  width: 3.1rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 4.5rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  letter-spacing: 0.63rem;
+  color: #f3f3f3;
+  font-family: Mplus 1p Bold, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-q6d .auto-group-mwmk-V7s .auto-group-lemj-MLR .group-2-Hjs .auto-group-gurz-NRs .item--qKT {
+  width: 1rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 3rem;
+  top: 2rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #e7e7e7;
+  font-family: Mplus 1p, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-q6d .auto-group-mwmk-V7s .auto-group-lemj-MLR .group-2-Hjs .auto-group-gurz-NRs .projects-Yjf {
+  width: 6.4rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 0;
+  top: 4.3rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 2.1975;
+  color: #e7e7e7;
+  font-family: Moulpali, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-q6d .auto-group-mwmk-V7s .auto-group-lemj-MLR .group-3-s1F {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-q6d .auto-group-mwmk-V7s .auto-group-lemj-MLR .group-3-s1F .auto-group-xxpq-RYZ {
+  margin-right: 4.5rem;
+  width: 13.5rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.desktop-1-q6d .auto-group-mwmk-V7s .auto-group-lemj-MLR .group-3-s1F .auto-group-xxpq-RYZ .ellipse-1-aRT {
+  margin-bottom: 2rem;
+  width: 95%;
+  height: 12.5rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-1-bg.png');
+  border-radius: 6.75rem;
+}
+.desktop-1-q6d .auto-group-mwmk-V7s .auto-group-lemj-MLR .group-3-s1F .auto-group-xxpq-RYZ .sarmad-shabir-JcM {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #e7e7e7;
+  font-family: Moulpali 1p Bold, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-q6d .auto-group-mwmk-V7s .auto-group-lemj-MLR .group-3-s1F .auto-group-q3yh-2HT {
+  margin-right: 5.5rem;
+  width: 19.6rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-1-q6d .auto-group-mwmk-V7s .auto-group-lemj-MLR .group-3-s1F .auto-group-q3yh-2HT .ellipse-2-Ymb {
+  margin: 0rem 2.1rem 2rem 4rem;
+  width: calc(100% - 7.1rem);
+  height: 12.5rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-2-bg.png');
+  border-radius: 6.75rem;
+  flex-shrink: 0;
+}
+.desktop-1-q6d .auto-group-mwmk-V7s .auto-group-lemj-MLR .group-3-s1F .auto-group-q3yh-2HT .syed-muhammad-afaq-r1b {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #e7e7e7;
+  font-family: Mplus 1p Bold, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-q6d .auto-group-mwmk-V7s .auto-group-lemj-MLR .group-3-s1F .auto-group-7ps3-BJm {
+  height: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-1-q6d .auto-group-mwmk-V7s .auto-group-lemj-MLR .group-3-s1F .auto-group-7ps3-BJm .ellipse-3-XNd {
+  margin: 0rem 0.1rem 2rem 0rem;
+  width: 12.5rem;
+  height: 12.5rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-3-bg.png');
+  border-radius: 6.75rem;
+  flex-shrink: 0;
+}
+.desktop-1-q6d .auto-group-mwmk-V7s .auto-group-lemj-MLR .group-3-s1F .auto-group-7ps3-BJm .abdullah-naeem-2KP {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #e7e7e7;
+  font-family: Mplus 1p Bold, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
